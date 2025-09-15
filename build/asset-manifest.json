@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Wings-portfolio/static/css/main.0bc3b106.css",
+    "main.js": "/Wings-portfolio/static/js/main.ef47ecbc.js",
+    "index.html": "/Wings-portfolio/index.html",
+    "main.0bc3b106.css.map": "/Wings-portfolio/static/css/main.0bc3b106.css.map",
+    "main.ef47ecbc.js.map": "/Wings-portfolio/static/js/main.ef47ecbc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0bc3b106.css",
+    "static/js/main.ef47ecbc.js"
+  ]
+}
